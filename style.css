@@ -1,0 +1,10 @@
+.titulo{
+    margin: 20px 13px;
+}
+.descricao{
+    margin: 10px;
+    padding: 10px;
+
+    background-color: aquamarine;
+    font-size: 20px;
+}
